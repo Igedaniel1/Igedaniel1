@@ -8,7 +8,10 @@ I'm a passionate learner and developer interested in machine learning, web devel
 You can find a collection of my projects here on GitHub, including:
 
 - Machine Learning: Diabetes prediction, Wine classification, Estate price prediction
-- Web Development: Experience in deploying models usinf Flask, HTML/CSS
+- A simulation model: Predicts the sector of renewable energy consumption using real-world U.S. energy data.
+Emission Simulation: Calculates potential CO₂ emissions offset based on energy consumption and emission factors.
+Interactive Web App: Built using Streamlit for quick, meaningful insights
+- Web Development: Experience in deploying models using Flask, HTML/CSS
 
 ## Skills
 - Programming languages: Python, Java
