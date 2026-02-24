@@ -82,7 +82,7 @@ I am motivated by systems that create measurable impact and help organizations m
 ## 📬 Get in Touch
 
 - 📧 Email: danielige80@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/daniel-ige-2826672a8  
-- 🧑‍💻 GitHub: github.com/Igedaniel1
+- 🔗 LinkedIn: https://linkedin.com/in/daniel-ige-2826672a8  
+- 🧑‍💻 GitHub: https://github.com/Igedaniel1
 
 Feel free to explore my repositories or reach out for collaboration opportunities. I am always open to building, learning, and solving meaningful problems.
